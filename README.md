@@ -256,7 +256,7 @@ If the required environment variables are not set, you'll get an error message:
   ❌ Invalid environment variables: { SECRET_KEY: [ 'Required' ] }
 ```
 
-## 🤝 Contribution
+## 🤝 Contribution Updated
 
 Contributions are always welcome! To contribute, please follow these steps:
 
